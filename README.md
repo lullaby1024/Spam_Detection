@@ -24,6 +24,9 @@ A walk-through of the project is given below.
     - Spam messages are more likely to use URLs.
   - Message length
     - Spam messages seem to be longer.
+#### Visualization
+- A [Tableau dashboard](https://public.tableau.com/profile/qi.feng1229#!/vizhome/SpamAnalysis/SpamAnalysisfromTrainingData?publish=yes) was established to summarize exploratory results.
+![demo](https://github.com/lullaby1024/Spam_Detection/blob/master/img/tableau_demo.gif)
 
 ### Preprocessing
 - Missing values: dropped
