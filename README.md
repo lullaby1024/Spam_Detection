@@ -51,7 +51,7 @@ A walk-through of the project is given below.
 
 ## Model
 ### Model Summary
-<img src="https://github.com/lullaby1024/Spam_Detection/blob/master/img/model_summary.png" width="40%">
+<img src="https://github.com/lullaby1024/Spam_Detection/blob/master/img/models_summary.png" width="40%">
 
 - Test metric: accuracy
 - SVM and Naive Bayes have better performances and are more efficient in terms of runtime.
