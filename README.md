@@ -79,5 +79,9 @@ Based on the coefficients, the top 30 words that will be predicted as spam by ou
   - Needy words, e.g., 'free'/'freephone'/'freemsg', 'new', 'prize'
   - Cheap words, e.g., 'win'
   - Far-fetched words, e.g., 'fancy', 'fantasy'
-  - Sleezy words, e.g., 'order'
+  - Sleazy words, e.g., 'order'
 - In addition, spams seem to include links, e.g., 'link', 'www', 'com'.
+
+## Next-steps
+- LSTM
+- Derived features (e.g., use of URLs)
